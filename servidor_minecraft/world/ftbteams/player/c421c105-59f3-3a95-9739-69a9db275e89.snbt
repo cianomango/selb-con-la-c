@@ -2,9 +2,7 @@
 	id: "c421c105-59f3-3a95-9739-69a9db275e89"
 	type: "player"
 	player_name: "Faka"
-	ranks: {
-		c421c105-59f3-3a95-9739-69a9db275e89: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Faka"
 		"ftbteams:description": ""

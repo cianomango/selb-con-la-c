@@ -2,9 +2,7 @@
 	id: "2e1a544c-ab4d-3566-9a15-f82df695a834"
 	type: "player"
 	player_name: "cianoman"
-	ranks: {
-		2e1a544c-ab4d-3566-9a15-f82df695a834: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "cianoman"
 		"ftbteams:description": ""
