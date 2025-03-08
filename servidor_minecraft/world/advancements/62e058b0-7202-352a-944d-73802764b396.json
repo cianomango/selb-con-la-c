@@ -1,4 +1,16 @@
 {
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
@@ -11,9 +23,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/pink_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-08 04:37:30 +0000"
     },
     "done": true
   },
@@ -29,9 +59,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -60,6 +102,60 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/gray_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/pine_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
@@ -78,6 +174,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2025-03-08 04:23:03 +0000"
@@ -90,9 +204,34 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/magenta_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_sand_stone_bricks": "2025-03-08 04:33:02 +0000",
+      "has_item2_domum_ornamentum_sand_stone_bricks": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
     },
     "done": true
   },
@@ -108,9 +247,63 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-03-08 04:33:49 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -138,9 +331,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -156,9 +367,69 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/persimmon_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/melon": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_birch_planks": {
     "criteria": {
       "has_ingredient": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/orange_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/green_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -180,15 +451,51 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/sand_1x": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-03-08 04:23:03 +0000"
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/amber_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-03-08 04:29:34 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -215,10 +522,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
       "has_alt_items": "2025-03-08 04:23:03 +0000",
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -228,9 +553,33 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/peach_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -243,6 +592,12 @@
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -270,9 +625,51 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -285,6 +682,30 @@
   "mcwbiomesoplenty:recipes/mahogany_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -315,15 +736,54 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-03-08 04:23:03 +0000",
+      "minecraft:bamboo_jungle": "2025-03-08 04:30:26 +0000",
       "minecraft:beach": "2025-03-08 04:27:47 +0000",
       "minecraft:dark_forest": "2025-03-08 04:28:09 +0000",
-      "minecraft:river": "2025-03-08 04:28:17 +0000"
+      "minecraft:sparse_jungle": "2025-03-08 04:30:24 +0000",
+      "minecraft:river": "2025-03-08 04:28:17 +0000",
+      "minecraft:jungle": "2025-03-08 04:31:46 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-08 04:33:49 +0000"
+    },
+    "done": true
   },
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2025-03-08 04:23:54 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
     },
     "done": true
   },
@@ -339,6 +799,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-03-08 04:23:03 +0000"
@@ -351,9 +817,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/bubblegum_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -363,9 +853,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -381,9 +883,63 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/brown_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cyan_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/white_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/conifer_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -393,9 +949,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -411,9 +997,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -429,6 +1033,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/persimmon_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
@@ -441,9 +1051,105 @@
     },
     "done": true
   },
+  "undergarden:recipes/transportation/smogstem_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/grit_sand": {
+    "criteria": {
+      "has_gravel": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/ultramarine_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-03-08 04:29:34 +0000"
     },
     "done": true
   },
@@ -453,9 +1159,21 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/amber_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -490,6 +1208,30 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/jungle_planks_1x": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/mint_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
@@ -502,15 +1244,69 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/lime_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-03-08 04:23:03 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-03-08 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/fluorescent_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/stick": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -522,9 +1318,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/navy_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/cherenkov_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -540,9 +1360,27 @@
     },
     "done": true
   },
+  "utilitarian:recipes/food/utility/charcoal_from_campfire": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/umbran_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -552,9 +1390,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/aquamarine_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/supplychestdeployer": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/transportation/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -565,9 +1445,69 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -589,6 +1529,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/transportation/grongle_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
@@ -601,9 +1547,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -619,15 +1589,111 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/coke_oven/charcoal": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/jungle_shulker_boat": {
+    "criteria": {
+      "criterion17": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
     },
     "done": true
   },
@@ -655,15 +1721,39 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -691,9 +1781,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -703,9 +1823,63 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/fluorescent_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/logs_to_bowls": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
     },
     "done": true
   },
@@ -715,9 +1889,27 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/icy_blue_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/jungle_log_1x": {
+    "criteria": {
+      "has_jungle_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -727,9 +1919,45 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/navy_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_item": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -745,6 +1973,36 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
@@ -757,9 +2015,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -772,6 +2066,12 @@
   "mcwbiomesoplenty:recipes/mahogany_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -799,15 +2099,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/dead_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-08 04:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -829,6 +2153,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_acacia_planks": {
     "criteria": {
       "has_ingredient": "2025-03-08 04:23:03 +0000"
@@ -838,6 +2174,12 @@
   "mcwbiomesoplenty:recipes/empyreal_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
     },
     "done": true
   },
@@ -853,9 +2195,63 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/willow_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2025-03-08 04:33:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -865,9 +2261,33 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/lavender_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -877,9 +2297,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/aquamarine_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/fir_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jam_jar": {
+    "criteria": {
+      "has_sweet_fruit": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/maroon_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -901,6 +2375,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/light_gray_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/orange_maple_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
@@ -910,6 +2390,18 @@
   "mcwbiomesoplenty:recipes/jacaranda_hedge": {
     "criteria": {
       "has_birch": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/honey_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -937,6 +2429,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-03-08 04:23:03 +0000"
@@ -946,6 +2444,30 @@
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/snad": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-08 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -961,6 +2483,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/yellow_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-03-08 04:23:03 +0000"
@@ -973,9 +2501,51 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/bed/wine_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/blue_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_binder_composite": {
+    "criteria": {
+      "has_ingredient_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/rose_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/spring_green_bed": {
+    "criteria": {
+      "has_plank": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -985,9 +2555,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/umbran_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/black_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-03-08 04:33:50 +0000"
     },
     "done": true
   },
@@ -997,9 +2585,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-03-08 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-03-08 04:33:49 +0000"
     },
     "done": true
   },
@@ -1016,6 +2634,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-03-08 04:23:03 +0000"
@@ -1028,9 +2664,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/hellbark_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/purple_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -1046,9 +2700,33 @@
     },
     "done": false
   },
+  "dyenamics:recipes/misc/spring_green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -1073,9 +2751,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-03-08 04:26:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -1097,6 +2793,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-03-08 04:28:12 +0000"
@@ -1115,9 +2829,57 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/red_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-08 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
+    "criteria": {
+      "has_planks": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/charcoal": {
+    "criteria": {
+      "has_the_recipe": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-08 04:33:27 +0000"
     },
     "done": true
   },
@@ -1139,9 +2901,22 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-03-08 04:33:50 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/empyreal_fences": {
     "criteria": {
       "has_acacia": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_sand_bricks": "2025-03-08 04:33:02 +0000",
+      "has_item1_domum_ornamentum_sand_bricks": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
@@ -1161,6 +2936,12 @@
   "corail_woodcutter:recipes/from_spruce_planks": {
     "criteria": {
       "has_ingredient": "2025-03-08 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 04:33:02 +0000"
     },
     "done": true
   },
