@@ -4385,3 +4385,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Mar2025 04:18:09.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> metete a vc
 [08Mar2025 04:18:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> ya vengo
 [08Mar2025 04:18:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Monster Hunter]
+[08Mar2025 04:23:02.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liquor[/127.137.231.24:59237] logged in with entity id 5796 at (-468.5, 65.0, -757.5)
+[08Mar2025 04:23:02.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Liquor
+[08Mar2025 04:23:02.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Liquor
+[08Mar2025 04:23:02.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Liquor
+[08Mar2025 04:23:02.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Liquor
+[08Mar2025 04:23:02.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Liquor
+[08Mar2025 04:23:02.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Liquor
+[08Mar2025 04:23:02.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Liquor
+[08Mar2025 04:23:02.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liquor joined the game
+[08Mar2025 04:23:03.042] [Server thread/INFO] [Jade/]: Syncing config to Liquor (62e058b0-7202-352a-944d-73802764b396)
+[08Mar2025 04:25:21.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman was slain by Zombie
+[08Mar2025 04:25:21.787] [Server thread/INFO] [tombstone/]: The player cianoman has successfully been saved
+[08Mar2025 04:25:23.148] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Mar2025 04:25:39.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Knowledge of Death]
+[08Mar2025 04:25:39.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [A Strange Grave Dust]
+[08Mar2025 04:26:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liquor was slain by Zombie
+[08Mar2025 04:26:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liquor has made the advancement [Your First Grave]
+[08Mar2025 04:26:50.341] [Server thread/INFO] [tombstone/]: The player Liquor has successfully been saved
+[08Mar2025 04:27:09.699] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Mar2025 04:28:04.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman was slain by Zombie
+[08Mar2025 04:28:04.286] [Server thread/INFO] [tombstone/]: The player cianoman has successfully been saved
+[08Mar2025 04:28:05.734] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Mar2025 04:28:20.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> a
+[08Mar2025 04:28:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made cianoman a server operator
+[08Mar2025 04:29:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has reached the goal [Chain Death]
+[08Mar2025 04:29:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman was shot by Skeleton
+[08Mar2025 04:29:02.152] [Server thread/INFO] [tombstone/]: The player cianoman has successfully been saved
+[08Mar2025 04:29:03.800] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Mar2025 04:30:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Apothic Affixes]
+[08Mar2025 04:30:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Isn't It Iron Pick]
+[08Mar2025 04:30:01.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [How'd You Get This?]
+[08Mar2025 04:31:01.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-471, y=63, z=-776} BlockPos{x=-473, y=63, z=-777}
