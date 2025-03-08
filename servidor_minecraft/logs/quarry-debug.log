@@ -1,7 +1,63 @@
-[2025-03-08T04:03:51,615][W] [TQW/initialLog]: Config in '§r              §5§l(MSX)  §dHosting Gratuito§r
+[2025-03-08T05:25:10,050][W] [TQW/initialLog]: Config in '§r              §5§l(MSX)  §dHosting Gratuito§r
           §f§nhttps://discord.gg/w9xt8ydNZe'
 {
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
+    }
+  },
   "common": {
+    "common": {
+      "reduceMarkerGuideLineIfPlayerIsFar": false,
+      "chunkDestroyerLimit": -1,
+      "debug": false,
+      "removeFrameAfterQuarryIsRemoved": false,
+      "removeCommonMaterialsByCD": true,
+      "flexMarkerMaxDistance": 256,
+      "spawnerBlackList": [
+        "minecraft:ender_dragon",
+        "minecraft:wither",
+        "minecraft:area_effect_cloud",
+        "minecraft:item",
+        "minecraft:player"
+      ],
+      "netherTop": 127,
+      "removeFluidAfterFinishedByCD": false,
+      "sfqEnergy": 2.0,
+      "customPlayer": false,
+      "noEnergy": false,
+      "convertDeepslateOres": false,
+      "allowWorkbenchExtraction": false,
+      "allowWorkInClaimedChunkByFBTChunks": false,
+      "enableChunkLoader": false,
+      "logAllQuarryWork": false
+    },
+    "enableMap": {
+      "mini_quarry": true,
+      "spawner_controller": false,
+      "fuel_module_normal": true,
+      "exp_module": true,
+      "pump_module": true,
+      "filter_module": true,
+      "remove_bedrock_module": false,
+      "replacer": false,
+      "replacer_module": false,
+      "repeat_tick_module": false,
+      "remote_placer": false,
+      "quarry": true,
+      "filler_module": true,
+      "solid_fuel_quarry": true,
+      "adv_quarry": true,
+      "mover": true,
+      "placer_plus": true,
+      "adv_pump": true,
+      "filler": true,
+      "mining_well": true,
+      "exp_pump": true,
+      "book_mover": true,
+      "workbench": true,
+      "pump_plus": true
+    },
     "powerMap": {
       "mini_quarry": {
         "maxEnergy": 1000.0,
@@ -76,62 +132,6 @@
         "minecraft:fortune",
         "minecraft:silk_touch"
       ]
-    },
-    "common": {
-      "reduceMarkerGuideLineIfPlayerIsFar": false,
-      "chunkDestroyerLimit": -1,
-      "debug": false,
-      "removeFrameAfterQuarryIsRemoved": false,
-      "removeCommonMaterialsByCD": true,
-      "flexMarkerMaxDistance": 256,
-      "spawnerBlackList": [
-        "minecraft:ender_dragon",
-        "minecraft:wither",
-        "minecraft:area_effect_cloud",
-        "minecraft:item",
-        "minecraft:player"
-      ],
-      "netherTop": 127,
-      "removeFluidAfterFinishedByCD": false,
-      "sfqEnergy": 2.0,
-      "customPlayer": false,
-      "noEnergy": false,
-      "convertDeepslateOres": false,
-      "allowWorkbenchExtraction": false,
-      "allowWorkInClaimedChunkByFBTChunks": false,
-      "enableChunkLoader": false,
-      "logAllQuarryWork": false
-    },
-    "enableMap": {
-      "mini_quarry": true,
-      "spawner_controller": false,
-      "fuel_module_normal": true,
-      "exp_module": true,
-      "pump_module": true,
-      "filter_module": true,
-      "remove_bedrock_module": false,
-      "replacer": false,
-      "replacer_module": false,
-      "repeat_tick_module": false,
-      "remote_placer": false,
-      "quarry": true,
-      "filler_module": true,
-      "solid_fuel_quarry": true,
-      "adv_quarry": true,
-      "mover": true,
-      "placer_plus": true,
-      "adv_pump": true,
-      "filler": true,
-      "mining_well": true,
-      "exp_pump": true,
-      "book_mover": true,
-      "workbench": true,
-      "pump_plus": true
-    }
-  },
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
     }
   }
 }
