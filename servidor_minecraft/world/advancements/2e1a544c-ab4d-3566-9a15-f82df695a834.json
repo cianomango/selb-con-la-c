@@ -19412,6 +19412,12 @@
     },
     "done": true
   },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-03-09 06:55:33 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/obsidian_chain": {
     "criteria": {
       "recipe_condition": "2025-03-09 05:12:16 +0000"
