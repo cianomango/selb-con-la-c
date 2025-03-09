@@ -901,12 +901,14 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-03-08 04:49:21 +0000",
       "minecraft:birch_forest": "2025-03-08 04:13:04 +0000",
+      "minecraft:windswept_hills": "2025-03-09 00:37:41 +0000",
       "minecraft:beach": "2025-03-08 04:48:18 +0000",
       "minecraft:sparse_jungle": "2025-03-08 04:45:14 +0000",
       "minecraft:lukewarm_ocean": "2025-03-08 04:48:21 +0000",
       "minecraft:river": "2025-03-08 04:38:23 +0000",
       "minecraft:jungle": "2025-03-08 04:40:11 +0000",
       "minecraft:ocean": "2025-03-08 04:57:09 +0000",
+      "minecraft:windswept_savanna": "2025-03-09 00:53:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-08 04:48:53 +0000",
       "minecraft:flower_forest": "2025-03-08 05:05:57 +0000",
       "minecraft:savanna": "2025-03-08 05:09:11 +0000"
@@ -3503,7 +3505,10 @@
     "criteria": {
       "cooked_mutton": "2025-03-08 19:31:43 +0000",
       "cooked_beef": "2025-03-08 04:40:29 +0000",
-      "bread": "2025-03-08 05:52:03 +0000"
+      "baked_potato": "2025-03-09 00:36:09 +0000",
+      "apple": "2025-03-09 00:23:59 +0000",
+      "bread": "2025-03-08 05:52:03 +0000",
+      "cookie": "2025-03-09 00:55:27 +0000"
     },
     "done": false
   },
@@ -4479,6 +4484,7 @@
       "rocky_shrubland": "2025-03-08 19:30:46 +0000",
       "scrubland": "2025-03-08 05:07:20 +0000",
       "floodplain": "2025-03-08 05:31:31 +0000",
+      "highland": "2025-03-09 00:37:39 +0000",
       "jacaranda_glade": "2025-03-08 20:49:53 +0000",
       "marsh": "2025-03-08 19:28:11 +0000",
       "mystic_grove": "2025-03-08 19:45:55 +0000",
@@ -7917,6 +7923,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-09 00:23:25 +0000",
+      "minecraft:spider": "2025-03-09 00:48:10 +0000",
+      "minecraft:enderman": "2025-03-09 00:21:08 +0000",
       "minecraft:zombie": "2025-03-08 05:53:11 +0000"
     },
     "done": false
@@ -12676,6 +12685,564 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-03-08 23:47:06 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/polished_quarried_stone_from_quarried_stone": {
+    "criteria": {
+      "has_quarried_stone": "2025-03-09 00:12:27 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/polished_quarried_stone_from_quarried_stone_in_stonecutter": {
+    "criteria": {
+      "has_quarried_stone": "2025-03-09 00:12:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-09 00:14:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-09 00:14:54 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/etched_quarried_stone": {
+    "criteria": {
+      "has_polished_quarried_stone": "2025-03-09 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/chiseled_quarried_stone": {
+    "criteria": {
+      "has_polished_quarried_stone": "2025-03-09 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/quarried_bricks": {
+    "criteria": {
+      "has_polished_quarried_stone": "2025-03-09 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/building_blocks/quarried_brick_stairs": {
+    "criteria": {
+      "has_quarried_bricks": "2025-03-09 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/quarried_paver": {
+    "criteria": {
+      "has_quarried_bricks": "2025-03-09 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/quarried_brick_slab": {
+    "criteria": {
+      "has_quarried_bricks": "2025-03-09 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2025-03-09 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-03-09 00:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-09 00:23:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-03-09 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-03-09 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-03-09 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-03-09 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/honey_glazed_walnut": {
+    "criteria": {
+      "has_walnut": "2025-03-09 00:33:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-03-09 00:33:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-03-09 00:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/animal_detector": {
+    "criteria": {
+      "has_spruce_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/spruce_log_1x": {
+    "criteria": {
+      "has_spruce_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/age_detector": {
+    "criteria": {
+      "has_spruce_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/spruce_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_log": "2025-03-09 00:37:50 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-03-09 00:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-09 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-09 00:49:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 00:49:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-09 00:55:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-09 00:55:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 00:55:40 +0000"
     },
     "done": true
   },
