@@ -16981,6 +16981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-03-09 03:48:01 +0000"
@@ -17269,6 +17275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-03-09 05:32:36 +0000"
@@ -17533,6 +17545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-03-09 05:08:09 +0000"
@@ -17578,6 +17596,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
     },
     "done": true
   },
@@ -17635,6 +17659,12 @@
     },
     "done": true
   },
+  "createoreexcavation:recipes/misc/vein_atlas": {
+    "criteria": {
+      "map": "2025-03-09 06:03:48 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/signalum_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-03-09 04:19:43 +0000"
@@ -17680,6 +17710,12 @@
   "alltheores:recipes/misc/osmium_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-03-09 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
     },
     "done": true
   },
@@ -17812,6 +17848,12 @@
   "dyenamics:recipes/misc/icy_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-03-09 06:03:48 +0000"
     },
     "done": true
   },
@@ -18181,6 +18223,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-03-09 06:02:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-03-09 03:58:27 +0000"
@@ -18337,6 +18385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-03-09 03:58:27 +0000"
@@ -18475,6 +18529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -18577,6 +18637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-03-09 03:57:07 +0000"
@@ -18634,6 +18700,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-09 06:03:00 +0000"
     },
     "done": true
   },
@@ -18806,9 +18878,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "silentgear:repair_kit": {
     "criteria": {
       "sturdy_repair_kit": "2025-03-09 04:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
     },
     "done": true
   },
@@ -18839,6 +18923,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
     },
     "done": true
   },
@@ -19046,6 +19136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-03-09 03:33:04 +0000"
@@ -19172,6 +19268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/obsidian_chain": {
     "criteria": {
       "recipe_condition": "2025-03-09 05:12:16 +0000"
@@ -19187,6 +19289,12 @@
   "dyenamics:recipes/misc/fluorescent_dye": {
     "criteria": {
       "has_glowstone": "2025-03-09 05:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
     },
     "done": true
   },
@@ -19271,6 +19379,12 @@
   "reliquary:recipes/misc/uncrafting/stick": {
     "criteria": {
       "has_witch_hat": "2025-03-09 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-03-09 06:03:48 +0000"
     },
     "done": true
   },
@@ -19472,6 +19586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -19544,6 +19664,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/polished_deepslate_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 06:02:27 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/redstone_clock": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -19571,6 +19697,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/deepslate_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 06:02:27 +0000"
     },
     "done": true
   },
