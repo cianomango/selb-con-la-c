@@ -4222,3 +4222,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Mar2025 03:05:24.474] [Server thread/INFO] [Jade/]: Syncing config to biesexo (e5f0d1f8-f2bb-3dd8-97d8-a735322301d7)
 [09Mar2025 03:10:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ponete el spawnpoint
 [09Mar2025 03:10:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> que exploto un creeper
+[09Mar2025 03:16:47.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> go two mimir?
+[09Mar2025 03:17:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> tmimi
+[09Mar2025 03:17:02.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> tya
+[09Mar2025 03:17:30.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ahora si te gustan los carteles?
+[09Mar2025 03:17:41.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> si
+[09Mar2025 03:22:26.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> che pasame la recompensa del silent gear
+[09Mar2025 03:22:32.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> el blueprint pack
+[09Mar2025 03:22:44.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> asi me pongo con eso
+[09Mar2025 03:23:01.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman lost connection: Disconnected
+[09Mar2025 03:23:01.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman left the game
+[09Mar2025 03:23:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Those'll Do For Now]
+[09Mar2025 03:23:14.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Construction Paper]
+[09Mar2025 03:23:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Into Fire]
+[09Mar2025 03:25:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: biesexo has made the advancement [Sky of Beginning]
+[09Mar2025 03:25:47.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cianoman[/127.35.24.44:48401] logged in with entity id 4950 at (-22557.267992783436, 101.0, -4385.0077224866345)
+[09Mar2025 03:25:47.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to cianoman
+[09Mar2025 03:25:47.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to cianoman
+[09Mar2025 03:25:47.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to cianoman
+[09Mar2025 03:25:47.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to cianoman
+[09Mar2025 03:25:47.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to cianoman
+[09Mar2025 03:25:47.306] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to cianoman
+[09Mar2025 03:25:47.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to cianoman
+[09Mar2025 03:25:47.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman joined the game
+[09Mar2025 03:25:47.833] [Server thread/INFO] [Jade/]: Syncing config to cianoman (2e1a544c-ab4d-3566-9a15-f82df695a834)
