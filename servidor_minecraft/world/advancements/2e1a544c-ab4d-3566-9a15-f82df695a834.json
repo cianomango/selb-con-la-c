@@ -3601,6 +3601,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-09 04:43:50 +0000",
       "cooked_beef": "2025-03-08 04:42:35 +0000",
       "baked_potato": "2025-03-08 07:17:36 +0000",
       "apple": "2025-03-08 21:21:07 +0000",
@@ -16989,6 +16990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-03-09 04:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
@@ -16998,6 +17005,12 @@
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-03-09 04:25:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-03-09 04:39:35 +0000"
     },
     "done": true
   },
@@ -17061,6 +17074,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-03-09 04:36:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
@@ -17082,6 +17101,12 @@
   "alltheores:recipes/misc/enderium_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/coke_oven/coal_coke_block": {
+    "criteria": {
+      "has_coal_block": "2025-03-09 04:38:09 +0000"
     },
     "done": true
   },
@@ -17307,6 +17332,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2025-03-09 04:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
@@ -17373,6 +17404,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-03-09 04:39:35 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/signalum_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-03-09 04:19:43 +0000"
@@ -17382,6 +17419,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 04:38:09 +0000"
     },
     "done": true
   },
@@ -17430,6 +17473,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-03-09 04:41:22 +0000"
     },
     "done": true
   },
@@ -17484,6 +17533,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-09 04:39:35 +0000"
     },
     "done": true
   },
@@ -17691,6 +17746,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-03-09 04:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
@@ -17700,6 +17761,12 @@
   "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-03-09 03:57:07 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
+    "criteria": {
+      "has_coal_block": "2025-03-09 04:38:09 +0000"
     },
     "done": true
   },
@@ -17760,6 +17827,12 @@
   "utilitix:recipes/misc/stone_wall": {
     "criteria": {
       "criterion0": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-03-09 04:39:35 +0000"
     },
     "done": true
   },
@@ -17922,6 +17995,12 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-03-09 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-03-09 04:39:35 +0000"
     },
     "done": true
   },
@@ -18131,6 +18210,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "toast": "2025-03-09 04:36:46 +0000",
       "glowing_calamari": "2025-03-09 03:57:07 +0000"
     },
     "done": false
@@ -18144,6 +18224,18 @@
   "quarryplus:recipes/workbench": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-03-09 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2025-03-09 04:38:09 +0000"
     },
     "done": true
   },
@@ -18216,6 +18308,18 @@
   "alltheores:recipes/misc/osmium_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-03-09 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "sturdy_repair_kit": "2025-03-09 04:40:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-03-09 04:36:46 +0000"
     },
     "done": true
   },
@@ -18438,6 +18542,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-03-09 04:37:08 +0000"
     },
     "done": true
   },
@@ -18684,6 +18794,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-03-09 04:39:35 +0000"
     },
     "done": true
   },
