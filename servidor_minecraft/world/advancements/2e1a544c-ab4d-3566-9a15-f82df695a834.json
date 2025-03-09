@@ -3609,7 +3609,8 @@
       "apple": "2025-03-08 21:21:07 +0000",
       "mutton": "2025-03-08 04:34:02 +0000",
       "bread": "2025-03-08 05:16:03 +0000",
-      "golden_apple": "2025-03-09 05:39:50 +0000"
+      "golden_apple": "2025-03-09 05:39:50 +0000",
+      "rotten_flesh": "2025-03-09 07:08:03 +0000"
     },
     "done": false
   },
@@ -17137,6 +17138,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-09 06:59:48 +0000"
+    },
+    "done": true
+  },
   "railcraft:recipes/misc/empty_detector": {
     "criteria": {
       "has_stone_bricks": "2025-03-09 05:34:06 +0000"
@@ -17611,6 +17618,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-03-09 06:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-09 05:12:16 +0000"
@@ -17626,6 +17639,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-03-09 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-03-09 06:59:48 +0000"
     },
     "done": true
   },
@@ -18106,6 +18125,12 @@
   "domum_ornamentum:recipes/tools/wheat_extra": {
     "criteria": {
       "has_material": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-09 06:59:48 +0000"
     },
     "done": true
   },
@@ -18604,6 +18629,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-09 06:59:48 +0000"
     },
     "done": true
   },
@@ -19160,6 +19191,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-03-09 06:59:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
     "criteria": {
       "has_copper_dust": "2025-03-09 04:18:46 +0000"
@@ -19370,6 +19407,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-03-09 06:59:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
@@ -19391,6 +19434,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-09 06:59:48 +0000"
     },
     "done": true
   },
@@ -19925,6 +19974,12 @@
   "minecraft:recipes/misc/lead_ingot_from_smelting_lead_raw": {
     "criteria": {
       "has_lead_raw": "2025-03-09 03:53:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-03-09 06:59:48 +0000"
     },
     "done": true
   },
