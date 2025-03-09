@@ -4246,3 +4246,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Mar2025 03:25:47.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to cianoman
 [09Mar2025 03:25:47.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman joined the game
 [09Mar2025 03:25:47.833] [Server thread/INFO] [Jade/]: Syncing config to cianoman (2e1a544c-ab4d-3566-9a15-f82df695a834)
+[09Mar2025 03:30:13.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> me voy a minar
+[09Mar2025 03:31:47.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> acordate de mejorar la mochila despues
+[09Mar2025 03:33:30.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Upgrade My Tool!]

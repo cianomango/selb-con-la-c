@@ -13258,6 +13258,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/shovel_template": {
     "criteria": {
       "has_item": "2025-03-09 03:23:04 +0000"
@@ -13285,6 +13291,12 @@
   "silentgear:recipes/misc/knife_blueprint": {
     "criteria": {
       "has_item": "2025-03-09 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13330,9 +13342,33 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/sickle_blueprint": {
     "criteria": {
       "has_item": "2025-03-09 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13390,6 +13426,24 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/ring_template": {
     "criteria": {
       "has_item": "2025-03-09 03:23:04 +0000"
@@ -13435,6 +13489,12 @@
   "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-09 03:20:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13486,6 +13546,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-09 03:25:46 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/ring_blueprint": {
     "criteria": {
       "has_item": "2025-03-09 03:23:14 +0000"
@@ -13528,6 +13594,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/wheat_extra": {
     "criteria": {
       "has_material": "2025-03-09 03:17:26 +0000"
@@ -13549,6 +13621,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-09 03:20:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-03-09 03:25:46 +0000"
     },
     "done": true
   },
@@ -13579,6 +13657,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-09 03:17:13 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13630,6 +13714,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/arrow_blueprint": {
     "criteria": {
       "has_item": "2025-03-09 03:23:14 +0000"
@@ -13660,9 +13750,21 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/very_crude_repair_kit": {
     "criteria": {
       "has_item": "2025-03-09 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13693,6 +13795,12 @@
   "silentgear:recipes/misc/bracelet_blueprint_alt": {
     "criteria": {
       "has_item": "2025-03-09 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13780,9 +13888,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-09 03:20:38 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13825,6 +13945,12 @@
   "silentgear:recipes/misc/bow_template": {
     "criteria": {
       "has_item": "2025-03-09 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -13903,6 +14029,18 @@
   "silentgear:recipes/misc/axe_template": {
     "criteria": {
       "has_item": "2025-03-09 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
@@ -14020,6 +14158,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-03-09 03:25:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-09 03:20:38 +0000"
@@ -14047,6 +14191,12 @@
   "silentgear:recipes/misc/slingshot_template": {
     "criteria": {
       "has_item": "2025-03-09 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-03-09 03:25:22 +0000"
     },
     "done": true
   },
