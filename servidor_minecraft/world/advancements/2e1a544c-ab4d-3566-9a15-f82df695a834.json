@@ -16977,6 +16977,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
@@ -16986,6 +16992,18 @@
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2025-03-09 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/redstone_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17001,15 +17019,51 @@
     },
     "done": true
   },
+  "appmek:recipes/misc/chemical_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
     },
     "done": true
   },
+  "littlelogistics:recipes/tools/locomotive_route": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/redstone/vessel_charger": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_information": {
+    "criteria": {
+      "redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17025,9 +17079,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/stone_chain": {
     "criteria": {
       "recipe_condition": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/dimmable_redstone_lamp": {
+    "criteria": {
+      "criterion1": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17055,6 +17127,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2025-03-09 03:33:04 +0000"
@@ -17064,6 +17142,12 @@
   "alchemistry:recipes/dissolver/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17079,6 +17163,24 @@
     },
     "done": true
   },
+  "railcraft:recipes/misc/radio_circuit": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_lead_block": "2025-03-09 03:57:43 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column": {
     "criteria": {
       "has_item": "2025-03-09 03:33:04 +0000"
@@ -17088,6 +17190,24 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-03-09 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17109,6 +17229,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/misc/advancedmagnet": {
     "criteria": {
       "recipe_condition": "2025-03-09 03:25:48 +0000"
@@ -17121,9 +17253,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
+    "criteria": {
+      "has_raw_lead": "2025-03-09 03:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-09 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/signal_circuit": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-09 03:58:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17133,15 +17313,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/blank_module": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-03-09 03:33:04 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-03-09 03:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/controller_circuit": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17157,9 +17373,87 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-03-09 03:58:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/redstone/disk": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-03-09 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-09 03:58:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-09 04:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-03-09 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17169,9 +17463,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-03-09 03:57:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17187,9 +17499,45 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_osmium_block": "2025-03-09 03:49:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_osmium_from_block": {
+    "criteria": {
+      "has_item": "2025-03-09 03:49:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-09 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-03-09 03:57:07 +0000"
+    },
+    "done": false
+  },
+  "quarryplus:recipes/workbench": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17199,9 +17547,63 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-03-09 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/tools/tug_route": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/screen_link": {
+    "criteria": {
+      "redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lead_ingot_from_blasting_lead_raw": {
+    "criteria": {
+      "has_lead_raw": "2025-03-09 03:53:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_from_block": {
+    "criteria": {
+      "has_item": "2025-03-09 03:57:43 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-03-09 03:49:04 +0000"
     },
     "done": true
   },
@@ -17211,9 +17613,45 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-03-09 03:48:01 +0000"
     },
     "done": true
   },
@@ -17223,9 +17661,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17247,9 +17703,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-09 03:58:27 +0000"
     },
     "done": true
   },
@@ -17259,9 +17727,27 @@
     },
     "done": true
   },
+  "railcraft:recipes/misc/receiver_circuit": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-09 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17271,9 +17757,69 @@
     },
     "done": true
   },
+  "railcraft:recipes/misc/signal_tuner": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "railcraft:recipes/misc/signal_block_surveyor": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/redstone_clock": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolscontrol:recipes/rftoolscontrol/card_base": {
+    "criteria": {
+      "redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -17286,6 +17832,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lead_ingot_from_smelting_lead_raw": {
+    "criteria": {
+      "has_lead_raw": "2025-03-09 03:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-09 03:58:27 +0000"
     },
     "done": true
   },
