@@ -17047,6 +17047,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-03-09 06:05:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/redstone_block": {
     "criteria": {
       "has_the_recipe": "2025-03-09 03:59:15 +0000"
@@ -17140,6 +17146,12 @@
   "littlelogistics:recipes/tools/locomotive_route": {
     "criteria": {
       "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-03-09 06:04:48 +0000"
     },
     "done": true
   },
@@ -17365,6 +17377,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 06:04:48 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
     "criteria": {
       "has_obsidian": "2025-03-09 05:12:16 +0000"
@@ -17536,6 +17554,12 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-03-09 06:05:46 +0000"
     },
     "done": true
   },
@@ -17782,6 +17806,12 @@
   "botania:recipes/decorations/blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-03-09 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2025-03-09 06:04:48 +0000"
     },
     "done": true
   },
@@ -18199,6 +18229,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-09 06:04:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-03-09 05:34:06 +0000"
@@ -18394,6 +18430,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-03-09 03:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-09 06:04:48 +0000"
     },
     "done": true
   },
@@ -19310,6 +19352,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-03-09 06:04:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -19439,6 +19487,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-09 05:34:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wing_to_leather": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 06:05:21 +0000"
     },
     "done": true
   },

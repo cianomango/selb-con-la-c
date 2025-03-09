@@ -4819,3 +4819,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Mar2025 06:02:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has reached the goal [New Age Librarian]
 [09Mar2025 06:03:00.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [The Secrets of Enchanting]
 [09Mar2025 06:05:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Magery]
+[09Mar2025 06:14:19.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bingwenbie the Nifty'/39372, l='ServerLevel[world]', x=-22562.78, y=68.00, z=-4331.69] died: Bingwenbie the Nifty was slain by cianoman
+[09Mar2025 06:17:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [First Age]
+[09Mar2025 06:17:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has made the advancement [Second Age]
