@@ -19496,6 +19496,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-03-09 06:35:13 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/enderium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
