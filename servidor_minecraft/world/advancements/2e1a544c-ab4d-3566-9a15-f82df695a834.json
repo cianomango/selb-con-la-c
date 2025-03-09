@@ -16995,6 +16995,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-03-09 04:25:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
@@ -17385,6 +17391,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-09 04:25:01 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/basic/passivetap_fe": {
     "criteria": {
       "has_item2": "2025-03-09 03:59:15 +0000"
@@ -17424,6 +17436,12 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_raw_block": {
     "criteria": {
       "has_raw_lead_block": "2025-03-09 03:57:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-03-09 04:25:01 +0000"
     },
     "done": true
   },
@@ -17619,6 +17637,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/glass_1x": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
@@ -17634,6 +17664,12 @@
   "dyenamics:recipes/misc/lavender_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/wheat_extra": {
+    "criteria": {
+      "has_material": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -17670,6 +17706,18 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-03-09 04:25:01 +0000"
     },
     "done": true
   },
@@ -17727,6 +17775,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/osmium_knife": {
+    "criteria": {
+      "has_ingots/osmium": "2025-03-09 04:25:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-03-09 03:33:04 +0000"
@@ -17748,6 +17802,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -17784,6 +17844,12 @@
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -17832,6 +17898,12 @@
   "dyenamics:recipes/misc/amber_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -17943,6 +18015,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-09 04:27:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
@@ -17958,6 +18036,12 @@
   "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
     "criteria": {
       "glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -17988,6 +18072,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -18093,6 +18183,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-03-09 03:49:04 +0000"
@@ -18108,6 +18210,12 @@
   "littlelogistics:recipes/tools/tug_route": {
     "criteria": {
       "has_item": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-03-09 04:25:01 +0000"
     },
     "done": true
   },
@@ -18153,6 +18261,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/hay_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-03-09 03:48:01 +0000"
@@ -18174,6 +18288,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -18315,9 +18435,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-03-09 04:25:01 +0000"
     },
     "done": true
   },
@@ -18330,6 +18462,12 @@
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-09 04:33:37 +0000"
     },
     "done": true
   },
@@ -18408,6 +18546,12 @@
   "dyenamics:recipes/misc/maroon_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-03-09 04:25:01 +0000"
     },
     "done": true
   },
@@ -18554,6 +18698,12 @@
       "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
+  },
+  "silentgear:swords": {
+    "criteria": {
+      "sword": "2025-03-09 04:29:20 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
