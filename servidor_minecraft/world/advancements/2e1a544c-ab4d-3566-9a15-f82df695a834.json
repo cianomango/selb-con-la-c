@@ -17050,6 +17050,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-09 04:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
@@ -17065,6 +17071,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-09 04:57:46 +0000"
     },
     "done": true
   },
@@ -17299,6 +17311,12 @@
   "alltheores:recipes/misc/enderium_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-03-09 04:57:46 +0000"
     },
     "done": true
   },
@@ -18025,6 +18043,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/solid_fuel_quarry": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-09 04:58:22 +0000"
     },
     "done": true
   },
