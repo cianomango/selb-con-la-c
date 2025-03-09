@@ -16983,9 +16983,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17019,6 +17037,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "appmek:recipes/misc/chemical_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-03-09 03:59:15 +0000"
@@ -17037,9 +17067,51 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17067,6 +17139,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/raw_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-03-09 03:38:55 +0000"
@@ -17076,6 +17154,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-03-09 03:31:16 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17091,9 +17175,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-03-09 04:18:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17121,6 +17223,30 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/enderium_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-03-09 04:15:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/navy_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
@@ -17133,9 +17259,69 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-09 04:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17151,15 +17337,45 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_copper_dust": "2025-03-09 04:18:46 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-03-09 03:33:04 +0000"
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-03-09 04:19:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17175,6 +17391,36 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-03-09 04:19:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust_from_raw_block": {
     "criteria": {
       "has_raw_lead_block": "2025-03-09 03:57:43 +0000"
@@ -17187,9 +17433,21 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/rose_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-03-09 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17211,9 +17469,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17235,6 +17505,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/icy_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -17244,6 +17520,12 @@
   "simplemagnets:recipes/misc/advancedmagnet": {
     "criteria": {
       "recipe_condition": "2025-03-09 03:25:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17265,9 +17547,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-03-09 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17295,6 +17595,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-03-09 04:18:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -17313,9 +17619,27 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17331,9 +17655,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-03-09 03:57:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17361,6 +17697,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/large_empty_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-03-09 03:42:23 +0000"
@@ -17370,6 +17712,12 @@
   "utilitix:recipes/misc/stone_wall": {
     "criteria": {
       "criterion0": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17385,9 +17733,21 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/persimmon_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17397,9 +17757,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/redstone/disk": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17409,15 +17805,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
+  "alltheores:recipes/misc/signalum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-03-09 04:19:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-03-09 03:58:27 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17439,6 +17859,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/signalum]_ingot": "2025-03-09 04:19:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -17457,9 +17895,33 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/enderium_dust_from_ingot": {
+    "criteria": {
+      "has_enderium_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-03-09 03:42:23 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17472,6 +17934,42 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-03-09 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/fluid_barge": {
+    "criteria": {
+      "has_item": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17493,15 +17991,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/osmium_dust_from_raw_block": {
     "criteria": {
       "has_raw_osmium_block": "2025-03-09 03:49:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17529,15 +18045,45 @@
     },
     "done": false
   },
+  "occultism:recipes/crushing/crushing/signalum_dust_from_ingot": {
+    "criteria": {
+      "has_signalum_ingot": "2025-03-09 04:19:43 +0000"
+    },
+    "done": true
+  },
   "quarryplus:recipes/workbench": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-03-09 04:15:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17550,6 +18096,12 @@
   "alltheores:recipes/misc/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-03-09 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-03-09 04:18:58 +0000"
     },
     "done": true
   },
@@ -17583,6 +18135,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/aquamarine_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_lead_from_block": {
     "criteria": {
       "has_item": "2025-03-09 03:57:43 +0000"
@@ -17601,9 +18159,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_lead_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-03-09 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17613,9 +18195,39 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/enderium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_copper_dust": "2025-03-09 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17631,9 +18243,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-03-09 04:18:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-03-09 04:18:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17649,9 +18291,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-03-09 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17661,9 +18315,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17697,9 +18381,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/enderium]_ingot": "2025-03-09 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-03-09 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17721,6 +18447,36 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
     "criteria": {
       "has_item": "2025-03-09 03:38:55 +0000"
@@ -17739,6 +18495,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/conifer_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
@@ -17748,6 +18510,12 @@
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17784,6 +18552,18 @@
   "railcraft:recipes/misc/signal_block_surveyor": {
     "criteria": {
       "has_redstone": "2025-03-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
@@ -17844,6 +18624,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-09 03:58:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-03-09 04:16:02 +0000"
     },
     "done": true
   },
